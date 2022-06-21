@@ -4,9 +4,12 @@ This little script takes as input a paste of Karuta's interface when showing car
 
 New features might come soon.
 
-##FAQ
+## FAQ
 
 ### What should I copy exactly ?
 You should copy like this, only the lines starting with an emoji.
 
 ![This](screenshots/what_to_copy.png)
+
+## TODO 
+Automatic tag assignment depending on detected anime
